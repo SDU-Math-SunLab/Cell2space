@@ -78,4 +78,3 @@ The manuscript for **Cell2space** is currently in preparation. If you use this t
 **Cell2space: Stepwise multi-scale reconstruction of cell spatial organization from single-cell RNA sequencing data**  
 Jieyi Pan, Qiyuan Guan, and Duanchen Sun.  
 
-```
