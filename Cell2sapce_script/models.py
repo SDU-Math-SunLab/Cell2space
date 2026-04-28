@@ -16,3 +16,7 @@ class MLP(nn.Module):
         x = torch.relu(self.bn2(self.fc2(x)))
         x = self.sigmoid(self.fc3(x))
         return x
+
+
+# Backward-compatible name used by pipeline.py.
+RelationshipMLP = MLP
